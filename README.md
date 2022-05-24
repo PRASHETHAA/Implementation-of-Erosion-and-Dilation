@@ -58,15 +58,18 @@ plt.imshow(img_dilate,cmap='gray')
 ## Output:
 
 ### Display the input Image
-![A1](https://user-images.githubusercontent.com/75234942/170095604-2bb47283-2220-4bda-9bf5-87450a12b4dc.png)
+
+![A1](https://user-images.githubusercontent.com/75234942/170095929-c69145a8-e5aa-46f6-84cd-efab486ab59f.png)
 
 
 ### Display the Eroded Image
-![A2](https://user-images.githubusercontent.com/75234942/170095636-b90d836e-f369-4e6f-b581-2bf70b250808.png)
+
+![A2](https://user-images.githubusercontent.com/75234942/170095981-38ac44d3-0c7a-4497-b5d0-f37fc4cebe0c.png)
 
 
 
 ### Display the Dilated Image
+
 ![A3](https://user-images.githubusercontent.com/75234942/170095670-abd80834-96d9-4ac4-9a5a-cbfaf220548a.png)
 
 
