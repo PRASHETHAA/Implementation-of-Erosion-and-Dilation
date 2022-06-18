@@ -40,7 +40,7 @@ img1=np.zeros((100,500),dtype='uint8')
 font=cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 # Create the Text using cv2.putText
-cv2.putText(img1,' PRASS ',(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(img1,' PRASHE ',(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(img1,cmap='gray')
 
 # Create the structuring element
